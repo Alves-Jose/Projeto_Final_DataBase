@@ -1,7 +1,7 @@
 # Projeto Banco Biblioteca #
 
 **Introdução:** 
-Este projeto foi criado durante o curso técnico de DBA no SENAI, todo o desenvolvimento do projeto foi feito por mim, José Marcos, incluindo MER, DER, Scripts, Alters e Inserts. Consiste em um Banco de Dados para o gerenciamento de uma **Biblioteca** 
+Este projeto foi criado durante o curso técnico de DBA, todo o desenvolvimento do projeto foi feito por mim, José Marcos, incluindo MER, DER, Scripts, Alters e Inserts. Consiste em um Banco de Dados para o gerenciamento de uma **Biblioteca** 
 
 **Objetivo do Banco:**
 Inicialmente, a biblioteca deseja armazenar para os livros as seguintes características: ISBN, Título, Ano de Lançamento, Editora e Autores deste livro. 
